@@ -1,105 +1,19 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:38bdf8&height=220&section=header&text=Garvita%20Gupta&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Data%20Analyst&descAlignY=55&descSize=20" width="100%" />
-
-<a href="https://github.com/garvitagupta12">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Excel+%7C+Power+BI;Turning+Raw+Data+Into+Real+Insights;Currently+Learning+Advanced+SQL;Open+to+Data+Analyst+Internships&font=Fira+Code&center=true&width=600&height=45&color=7dd3fc&vCenter=true&size=22&pause=1200" alt="Typing SVG" />
-</a>
-
-<br/>
+# 💫 About Me:
+Hi, I'm Garvita Gupta, a Computer Science undergraduate passionate about transforming data into meaningful insights. I enjoy working with SQL, Python, Excel, and Tableau to clean, analyze, and visualize data that supports better decision-making.<br><br>I'm continuously improving my analytical and problem-solving skills by building real-world projects, solving SQL and DSA problems, and exploring data-driven solutions. My goal is to start my career as a Junior Data Analyst, where I can apply my technical skills while continuing to learn and grow.<br><br>Tech Stack: SQL • Python • Pandas • NumPy • Tableau • Git • GitHub • C++
 
 
-</div>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/garvita-gupta-0b635529a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:garvitaaguptaa2026@gmail.com) 
 
-<br/>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=garvitagupta12&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=garvitagupta12&theme=material-palenight&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=garvitagupta12&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🧾 Who I Am
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-```ts
-const garvitaGupta = {
-  title: "Aspiring Data Analyst",
-  stack: {
-    languages: ["Python", "C++", "SQL"],
-    dataAnalysis: ["SQL", "Excel", "Power BI"],
-    libraries: ["NumPy", "Pandas", "Matplotlib", "Seaborn", "Scikit-learn"],
-    databases: ["MySQL"],
-    tools: ["Git", "GitHub", "Google Colab"],
-  },
-  launchedProjects: [
-    "pizza_sales_analysis — SQL analysis of pizza sales & revenue trends",
-  ],
-  certifications: [
-    "SQL (Intermediate) — HackerRank",
-    "Oracle Database Foundations — Oracle DevGym",
-  ],
-  status: "B.Tech CSE Student @ JSS Academy of Technical Education",
-  openTo: ["Data Analyst Internships", "SQL / BI Projects", "Collaboration"],
-};
-```
-
-<br/>
-
-## 🚀 Featured Projects
-
-### 🍕 Pizza Sales SQL Analysis
-
-SQL-based data analysis project that explores pizza sales data to uncover business insights — revenue trends, top-selling pizzas, customer ordering patterns, and sales performance. Uses joins, aggregations, subqueries, CTEs, and window functions to answer real-world business questions.
-
-<div align="center">
-  <a href="https://github.com/garvitagupta12/pizza_sales_analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=garvitagupta12&repo=pizza_sales_analysis&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" />
-  </a>
-</div>
-
-| Layer | Technology |
-|---|---|
-| Querying | SQL (Joins, Subqueries, CTEs, Window Functions) |
-| Database | MySQL |
-| Focus | Revenue Trends · Top Sellers · Ordering Patterns |
-
-🔗 💻 **Code:** [pizza_sales_analysis](https://github.com/garvitagupta12/pizza_sales_analysis)
-
-<br/>
-
-## 🛠️ Tech Stack
-
-**Languages & Databases**
-
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql" />
-
-**Data Analysis & BI**
-
-<img src="https://skillicons.dev/icons?i=powerbi" />
-
-**Dev Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-<br/>
-
-
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=garvitagupta12&theme=react-dark&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=ffffff" width="100%" />
-</div>
-
-<br/>
-
-## 🔗 Connect With Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/garvita-gupta-0b635529a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:garvitagupta1207@gmail.com">
-    <img src="https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:7dd3fc&height=120&section=footer" width="100%" />
-
-</div>
+---
+[![](https://komarev.com/ghpvc/?username=garvitagupta12&icon=0&color=0)](https://visitcount.itsvg.in)

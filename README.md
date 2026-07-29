@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Garvita Gupta, a Computer Science undergraduate passionate about transforming data into meaningful insights. I enjoy working with SQL, Python, Excel, and Tableau to clean, analyze, and visualize data that supports better decision-making.<br><br>I'm continuously improving my analytical and problem-solving skills by building real-world projects, solving SQL and DSA problems, and exploring data-driven solutions. My goal is to start my career as a Junior Data Analyst, where I can apply my technical skills while continuing to learn and grow.<br><br>Tech Stack: SQL • Python • Pandas • NumPy • Tableau • Git • GitHub • C++
+Hi, I'm Garvita Gupta, a Computer Science undergraduate passionate about transforming data into meaningful insights. I enjoy working with SQL, Python, Excel, and Tableau to clean, analyze, and visualize data that supports better decision-making.<br><br>I'm continuously improving my analytical and problem-solving skills by building real-world projects, solving SQL and DSA problems, and exploring data-driven solutions. My goal is to start my career as a Junior Data Analyst, where I can apply my technical skills while continuing to learn and grow.<br><br>Tech Stack: SQL • Python • Pandas • NumPy • Tableau • Excel • C++ • Git • GitHub 
 
 
 ## 🌐 Socials:

@@ -7,10 +7,6 @@ Hi, I'm Garvita Gupta, a Computer Science undergraduate passionate about transfo
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=garvitagupta12&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=garvitagupta12&theme=material-palenight&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=garvitagupta12&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
